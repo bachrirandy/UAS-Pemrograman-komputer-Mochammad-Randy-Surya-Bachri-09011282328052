@@ -1,11 +1,15 @@
 # UAS Pemrograman Komputer
 
-## Bio
+## Bio ![Uploading SoExcited~GIF.gif…]()
+
 - **Nama:** Mochammad Randy Surya Bachri
 - **NIM:** 09011282328052
 - **Kelas:** SK1A
 - **Mata Kuliah:** Pemrograman Komputer
 - **Dosen Pengampu:** Abdurahman, M.Han.
+
+## Language
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
 ## Challenges Overview
 1. **soal1**: Discount Calculator
