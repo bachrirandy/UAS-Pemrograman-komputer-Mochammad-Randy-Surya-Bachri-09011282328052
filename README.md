@@ -1,16 +1,15 @@
 # UAS Pemrograman Komputer
 
-## Biodata
-
+## Bio
 - **Nama:** Mochammad Randy Surya Bachri
 - **NIM:** 09011282328052
 - **Kelas:** SK1A
 - **Mata Kuliah:** Pemrograman Komputer
-- **Dosen Pengampuh:** Abdurahman, M.Han.
+- **Dosen Pengampu:** Abdurahman, M.Han.
 
 ## Challenges Overview
 1. **soal1**: Discount Calculator
-   - Seorang pelanggan sedang berbelanja di sebuah toko online. Terdapat sebuah barang dengan harga tertentu dan diskon berdasarkan jumlah pembelian. Implementasikan program Java untuk menghitung total harga yang      harus dibayar oleh pelanggan. Jika pelanggan membeli barang dengan jumlah kurang dari 5, tidak ada diskon.Jika pelanggan membeli barang antara 5 hingga 10, berikan diskon 5%.Jika pelanggan membeli barang antara 11 hingga 20, berikan diskon 10%.Jika pelanggan membeli barang lebih dari 20, berikan diskon 20%. Tampilkan total harga setelah diskon.
+   - Seorang pelanggan sedang berbelanja di sebuah toko online. Terdapat sebuah barang dengan harga tertentu dan diskon berdasarkan jumlah pembelian. Implementasikan program Java untuk menghitung total harga yang      harus dibayar oleh pelanggan. Jika pelanggan membeli barang dengan jumlah kurang dari 5, tidak ada diskon.Jika pelanggan membeli barang antara 5 hingga 10, berikan diskon 5%.Jika pelanggan membeli barang          antara 11 hingga 20, berikan diskon 10%.Jika pelanggan membeli barang lebih dari 20, berikan diskon 20%. Tampilkan total harga setelah diskon.
 2. **soal2**: User Authentication 
    - Buatlah program Java untuk melakukan autentikasi pengguna berdasarkan username dan password. Jika username dan password yang dimasukkan sesuai dengan nilai yang telah ditentukan, tampilkan pesan "Autentikasi      Berhasil". Jika tidak, tampilkan pesan "Autentikasi Gagal".
 3. **soal3**: Fibonacci 
