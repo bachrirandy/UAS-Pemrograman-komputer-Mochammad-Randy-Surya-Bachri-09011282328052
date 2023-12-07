@@ -1,6 +1,6 @@
-# UAS Pemrograman Komputer
+# UAS Pemrograman Komputer 💻
 
-## Bio ![Uploading SoExcited~GIF.gif…]()
+## Bio 🤖
 
 - **Nama:** Mochammad Randy Surya Bachri
 - **NIM:** 09011282328052
@@ -11,7 +11,7 @@
 ## Language
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-## Challenges Overview
+## Challenges Overview 🤯
 1. **soal1**: Discount Calculator
    - Seorang pelanggan sedang berbelanja di sebuah toko online. Terdapat sebuah barang dengan harga tertentu dan diskon berdasarkan jumlah pembelian. Implementasikan program Java untuk menghitung total harga yang      harus dibayar oleh pelanggan. Jika pelanggan membeli barang dengan jumlah kurang dari 5, tidak ada diskon.Jika pelanggan membeli barang antara 5 hingga 10, berikan diskon 5%.Jika pelanggan membeli barang          antara 11 hingga 20, berikan diskon 10%.Jika pelanggan membeli barang lebih dari 20, berikan diskon 20%. Tampilkan total harga setelah diskon.
 2. **soal2**: User Authentication 
