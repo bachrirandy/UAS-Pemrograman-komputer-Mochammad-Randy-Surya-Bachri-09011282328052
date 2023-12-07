@@ -28,6 +28,6 @@
 9. **soal9**: Bracket Sequence Validator
    - Using Java and the power of stack data structure to check if the parenthesis sequence in a mathematical expression is correct. Unleash the stack magic!
 10. **soal10**: GitHub Repository
-   - Creating a new GitHub repository with a cool name like "UAS-Pemrograman-Komputer-Nama-NIM". Don't forget the README with your awesome story!
-
+    - Creating a new GitHub repository with a cool name like "UAS-Pemrograman-Komputer-Nama-NIM". Don't forget the README with your awesome story!
 # Thank You! 😎
+ 
