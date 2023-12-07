@@ -1,1 +1,3 @@
-# UAS-Pemrograman-komputer-Mochammad-Randy-Surya-Bachri-09011282328052
+# UAS Pemrograman Komputer 
+Nama : Mochammad Randy Surya Bachri
+NIM  : 09011282328052
